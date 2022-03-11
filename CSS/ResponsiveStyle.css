@@ -1,0 +1,818 @@
+@media all and (min-width: 1201px) and (max-width: 1310px) {
+    .introduction-name h1 {
+        font-size: 111px;
+    }
+
+    .introduction-occupation h1 {
+        font-size: 111px;
+    }
+
+    .language {
+        margin-top: 220px;
+    }
+
+    .nombre {
+        font-size: 105.2px !important;
+    }
+
+    .desarrollador {
+        font-size: 85px;
+    }
+
+    h3 {
+        font-size: 28px;
+    }
+
+    .container .content p {
+        font-size: 22px;
+        line-height: 22px
+    }
+
+    .container .date {
+        font-size: 25px;
+    }
+
+    #me {
+        margin-top: -6px;
+        padding-left: 245px;
+    }
+
+    #image1 {
+        margin-top: auto;
+        margin-bottom: auto;
+        height: 100%;
+        width: 34%;
+    }
+    
+    #education {
+        margin-top: -20px;
+        padding-right: 235px;
+    }
+    
+    #image2 {
+        margin-top: auto;
+        margin-bottom: auto;
+        height: 100%;
+        width: 33%;
+      }
+
+    #experience {
+        margin-top: -20px;
+        padding-left: 216px;
+    }
+
+    #image3 {
+        margin-top: auto;
+        margin-bottom: auto;
+        height: 360px;
+        width: 31.5%;
+      }
+    
+    #cv {
+        margin-top: -6px;
+        padding-right: 305px;
+    }
+
+    .cvcontainer {
+        width: 39%;
+      }
+
+    #contact {
+        margin-top: -20px;
+        padding-left: 260px;
+    }
+
+    .mailcontainer {
+        width: 35.5%;
+      }
+}
+
+@media all and (min-width: 1113px) and (max-width: 1200px) {
+    .introduction-name h1 {
+        font-size: 114px;
+    }
+
+    .introduction-occupation h1 {
+        font-size: 102px;
+    }
+
+    .language {
+        margin-top: 250px;
+    }
+
+    .nombre {
+        font-size: 96px !important;
+    }
+
+    .desarrollador {
+        font-size: 75px;
+    }
+
+    h3 {
+        font-size: 26px;
+    }
+
+    .container .content p {
+        font-size: 20px;
+        line-height: 22px
+    }
+
+    .container .date {
+        font-size: 22px;
+    }
+
+    #me {
+        margin-top: -5px;
+        padding-left: 265px;
+    }
+
+    #image1 {
+        margin-top: auto;
+        margin-bottom: auto;
+        height: 100%;
+        width: 35%;
+    }
+    
+    #education {
+        margin-top: -18px;
+        padding-right: 255px;
+    }
+    
+    #image2 {
+        margin-top: auto;
+        margin-bottom: auto;
+        height: 100%;
+        width: 34%;
+      }
+
+    #experience {
+        margin-top: -18px;
+        padding-left: 238px;
+    }
+
+    #image3 {
+        margin-top: auto;
+        margin-bottom: auto;
+        height: 360px;
+        width: 32.5%;
+      }
+    
+    #cv {
+        margin-top: -5px;
+        padding-right: 317px;
+    }
+
+    .cvcontainer {
+        width: 39.5%;
+      }
+
+    #contact {
+        margin-top: -18px;
+        padding-left: 280px;
+    }
+
+    .mailcontainer {
+        width: 36.5%;
+      }
+}
+
+@media all and (min-width: 1025px) and (max-width: 1112px) {
+    .introduction-name h1 {
+        font-size: 103.5px;
+    }
+
+    .introduction-occupation h1 {
+        font-size: 93.5px;
+    }
+
+    .language {
+        margin-top: 220px;
+    }
+
+    .nombre {
+        font-size: 87px !important;
+    }
+
+    .desarrollador {
+        font-size: 70px;
+    }
+
+    h3 {
+        font-size: 24px;
+    }
+
+    .container .content p {
+        font-size: 18px;
+        line-height: 22px
+    }
+
+    .container .date {
+        font-size: 19px;
+    }
+
+    #me {
+        margin-top: -3px;
+        padding-left: 280px;
+    }
+
+    #image1 {
+        margin-top: auto;
+        margin-bottom: auto;
+        height: 100%;
+        width: 35%;
+    }
+    
+    #education {
+        margin-top: -14px;
+        padding-right: 270px;
+    }
+    
+    #image2 {
+        margin-top: auto;
+        margin-bottom: auto;
+        height: 100%;
+        width: 34%;
+      }
+
+    #experience {
+        margin-top: -14px;
+        padding-left: 255px;
+    }
+
+    #image3 {
+        margin-top: auto;
+        margin-bottom: auto;
+        height: 360px;
+        width: 32.5%;
+      }
+    
+    #cv {
+        margin-top: -3px;
+        padding-right: 325px;
+    }
+
+    .cvcontainer {
+        width: 39%;
+      }
+
+    #contact {
+        margin-top: -14px;
+        padding-left: 290px;
+    }
+
+    .mailcontainer {
+        width: 36%;
+      }
+}
+
+@media all and (min-width: 897px) and (max-width: 1024px) {
+    .introduction-name h1 {
+        font-size: 95px;
+        margin-right: 100px;
+    }
+
+    .introduction-occupation h1 {
+        font-size: 81px;
+    }
+
+    .language {
+        margin-top: 310px;
+    }
+
+    .nombre {
+        font-size: 93px !important;
+    }
+
+    .desarrollador {
+        font-size: 60px;
+    }
+
+    h3 {
+        font-size: 22px;
+    }
+
+    .container .content p {
+        font-size: 16px;
+        line-height: 19px
+    }
+
+    .container .date {
+        font-size: 17px;
+    }
+
+    #me {
+        margin-top: -2px;
+        padding-left: 290px;
+    }
+
+    #image1 {
+        margin-top: auto;
+        margin-bottom: auto;
+        height: 100%;
+        width: 34%;
+    }
+    
+    #education {
+        margin-top: -12px;
+        padding-right: 280px;
+    }
+    
+    #image2 {
+        margin-top: auto;
+        margin-bottom: auto;
+        height: 100%;
+        width: 33%;
+      }
+
+    #experience {
+        margin-top: -12px;
+        padding-left: 270px;
+    }
+
+    #image3 {
+        margin-top: auto;
+        margin-bottom: auto;
+        height: 360px;
+        width: 32%;
+      }
+    
+    #cv {
+        margin-top: -2px;
+        padding-right: 330px;
+    }
+
+    #contact {
+        margin-top: -12px;
+        padding-left: 300px;
+    }
+
+    .mailcontainer {
+        height: 590px;
+      }
+}
+
+@media all and (min-width: 769px) and (max-width: 896px) {
+    .introduction-name h1 {
+        font-size: 83px;
+        margin-right: 100px;
+    }
+
+    .introduction-occupation h1 {
+        font-size: 68px;
+    }
+
+    .language {
+        margin-top: 280px;
+    }
+
+    .nombre {
+        font-size: 81px !important;
+    }
+
+    .desarrollador {
+        font-size: 50px;
+    }
+
+    .container.right .content {
+        border-radius: 200px 10px 10px 200px;
+    }
+
+    h3 {
+        font-size: 20px;
+    }
+
+    .container .content p {
+        font-size: 14px;
+        line-height: 16px
+    }
+
+    .container .date {
+        font-size: 15px;
+    }
+
+    #me {
+        margin-top: -1px;
+        padding-left: 300px;
+    }
+
+    #image1 {
+        margin-top: auto;
+        margin-bottom: auto;
+        height: 100%;
+        width: 32.5%;
+    }
+    
+    #education {
+        margin-top: -10px;
+        margin-right: 93px;
+    }
+
+    #image2 {
+        margin-top: auto;
+        margin-bottom: auto;
+        height: 100%;
+        width: 31%;
+      }
+    
+    #experience {
+        margin-top: -10px;
+        padding-left: 280px;
+    }
+
+    #image3 {
+        margin-top: auto;
+        margin-bottom: auto;
+        height: 360px;
+        width: 30%;
+      }
+    
+    #cv {
+        margin-top: -1px;
+        margin-right: 53px;
+    }
+
+    .cvcontainer {
+        width: 37%;
+        height: 370px;
+      }
+    
+    #contact {
+        margin-top: -10px;
+        padding-left: 313px;
+    }
+
+    .mailcontainer {
+        height: 590px;
+      }
+}
+
+@media all and (min-width: 481px) and (max-width: 768px) {
+    .timeline::after {
+      left: 90px;
+    }
+  
+    .container {
+      width: 100%;
+      padding-left: 120px;
+      padding-right: 30px;
+    }
+  
+    .container.right {
+      left: 0%;
+    }
+  
+    .container.left::after, 
+    .container.right::after {
+      left: 82px;
+    }
+  
+    .container.left::before,
+    .container.right::before {
+      left: 96px;
+      border-color: transparent #87ffdf transparent transparent;
+    }
+  
+    .container.left .date,
+    .container.right .date {
+      right: auto;
+      left: 15px;
+    }
+  
+    .container.left .icon,
+    .container.right .icon {
+      right: auto;
+      left: 146px;
+    }
+  
+    .container.left .content,
+    .container.right .content {
+      padding: 30px 30px 30px 90px;
+      border-radius: 200px 10px 10px 200px;
+    }
+
+
+
+
+    .navbar li a {
+        font-size: 13px;
+        padding: 8px 8px;
+     }
+
+    .introduction {
+        flex-direction: column;
+        margin-top: -25px;
+    }
+
+    .introduction-occupation {
+        width: 100%;
+        text-align: left;
+    }
+
+    .introduction-name h1 {
+        font-size: 70px;
+        margin-left: 80px;
+    }
+
+    .introduction-occupation {
+        width: 100%;
+        text-align: left;
+    }
+
+    .introduction-occupation h1 {
+        font-size: 55px;
+        margin-top: 5px;;
+        margin-left: 80px;
+    }
+
+    .language {
+        margin-left: 80px;
+        margin-top: 10px;
+    }
+
+    .nombre {
+        margin-top: 15px;
+        font-size: 55px !important;
+    }
+
+    .desarrollador {
+        font-size: 50px;
+    }
+
+    h3 {
+        font-size: 20px;
+    }
+
+    .container .content p {
+        font-size: 14px;
+        line-height: 15px;
+    }
+
+    .container .date {
+        font-size: 11px;
+    }
+
+    #me {
+        margin-top: 1px;
+        margin-left: -220px;
+    }
+
+    #image1 {
+        margin-top: auto;
+        margin-bottom: auto;
+        margin-left: auto;
+        margin-right: auto;
+        width: 86%;
+    }
+    
+    #education {
+        margin-top: 1px;
+        margin-left: -10px;
+    }
+
+    #image2 {
+        margin-top: auto;
+        margin-bottom: auto;
+        margin-left: auto;
+        margin-right: auto;
+        width: 86%;
+      }
+    
+    #sectionexp {
+        flex-direction: column-reverse;
+    }
+
+    #experience {
+        margin-top: 1px;
+        margin-left: -195px;
+    }
+
+    #image3 {
+        margin-top: auto;
+        margin-bottom: auto;
+        margin-left: auto;
+        margin-right: auto;
+        height: 360px;
+        width: 86%;
+      }
+
+    #sectioncv {
+        padding-top: 30px;
+        margin-top: 40px;
+        margin-bottom: 120px;
+    }
+    
+    #cv {
+        margin-top: 1px;
+        margin-left: 20px;
+    }
+
+    .cvcontainer {
+        margin-left: auto;
+        margin-right: auto;
+        width: 86%;
+        height: 370px;
+      }
+
+    #sectioncont {
+        flex-direction: column-reverse;
+        padding-top: 30px;
+    }
+    
+    #contact {
+        margin-top: -5px;
+        margin-left: -220px;
+    }
+
+    .mailcontainer {
+        margin-left: auto;
+        margin-right: auto;
+        height: 590px;
+        width: 86%;
+      }
+}
+
+@media all and (max-width: 480px) {
+    .timeline::after {
+        left: 20px;
+      }
+    
+      .container {
+        width: 100%;
+        padding-left: 45px;
+        padding-right: 20px;
+      }
+    
+      .container.right {
+        left: 0%;
+      }
+    
+      .container.left::after, 
+      .container.right::after {
+        left: 12px;
+      }
+    
+      .container.left::before,
+      .container.right::before {
+        left: 16px;
+        border-color: transparent #87ffdf transparent transparent;
+      }
+    
+      .container.left .date,
+      .container.right .date {
+        right: auto;
+        left: 15px;
+      }
+    
+      .container.left .icon,
+      .container.right .icon {
+        right: auto;
+        left: 50px;
+      }
+    
+      .container.left .content,
+      .container.right .content {
+        padding: 30px 30px 30px 50px;
+        border-radius: 100px 10px 10px 100px;
+      }
+  
+  
+  
+  
+      .navbar li a {
+          font-size: 13px;
+          padding: 8px 8px;
+       }
+  
+      .introduction {
+          margin-top: 25px;
+          flex-direction: column;
+      }
+  
+      .introduction-name {
+          width: 100%;
+          text-align: left;
+      }
+  
+      .introduction-name h1 {
+          font-size: 60px;
+          margin-left: 10px;
+      }
+  
+      .introduction-occupation {
+          width: 100%;
+          text-align: left;
+      }
+  
+      .introduction-occupation h1 {
+          font-size: 50px;
+          margin-top: 20px;
+          margin-left: 10px;
+      }
+  
+      .language {
+          margin-left: 10px;
+          margin-top: 10px;
+      }
+
+      .nombre {
+        margin-top: 15px;
+        font-size: 50px !important;
+    }
+
+      .desarrollador {
+        font-size: 35px;
+      }
+  
+      h3 {
+          font-size: 20px;
+      }
+  
+      .container .content p {
+          font-size: 14px;
+          line-height: 15px;
+      }
+  
+      .container .date {
+          font-size: 9px;
+      }
+  
+      #me {
+          margin-top: -25px;
+          margin-left: -205px;
+      }
+  
+      #image1 {
+          margin-top: auto;
+          margin-bottom: auto;
+          margin-left: auto;
+          margin-right: auto;
+          width: 86%;
+      }
+      
+      #education {
+          margin-top: -35px;
+          margin-left: 13px;
+      }
+  
+      #image2 {
+          margin-top: auto;
+          margin-bottom: auto;
+          margin-left: auto;
+          margin-right: auto;
+          width: 86%;
+        }
+      
+      #sectionexp {
+          flex-direction: column-reverse;
+      }
+  
+      #experience {
+          margin-top: -35px;
+          margin-left: -170px;
+      }
+  
+      #image3 {
+          margin-top: auto;
+          margin-bottom: auto;
+          margin-left: auto;
+          margin-right: auto;
+          height: 360px;
+          width: 86%;
+        }
+  
+      #sectioncv {
+          padding-top: 30px;
+          margin-top: 40px;
+          margin-bottom: 120px;
+      }
+      
+      #cv {
+          margin-top: -25px;
+          margin-left: 13px;
+          padding-right: 0;
+      }
+  
+      .cvcontainer {
+          margin-left: auto;
+          margin-right: auto;
+          width: 86%;
+          height: 370px;
+        }
+  
+      #sectioncont {
+          flex-direction: column-reverse;
+          padding-top: 30px;
+      }
+      
+      #contact {
+          margin-top: -35px;
+          margin-left: -210px;
+      }
+  
+      .mailcontainer {
+          margin-left: auto;
+          margin-right: auto;
+          height: 590px;
+          width: 86%;
+        }
+  }
