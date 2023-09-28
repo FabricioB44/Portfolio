@@ -99,6 +99,48 @@
   transition: all 0.1s ease-in;
 }
 
+.websitecontainer {
+  margin: 100px 30px 0px 30px;
+  position: relative;
+  background: inherit;
+  width: 31%;
+  height: 400px;
+  background-color: #42927a;
+  border-radius: 10px;
+  padding: 10px;
+  box-shadow: none;
+  z-index: 1;
+  -moz-transition: all 0.1s ease-in;
+  -o-transition: all 0.1s ease-in;
+  -webkit-transition: all 0.1s ease-in;
+  transition: all 0.1s ease-in;
+}
+
+.websitecontainer:hover, .websitecontainer:active {
+  box-shadow:0px 0px 30px #87ffdf;
+  -moz-transition: all 0.1s ease-in;
+  -o-transition: all 0.1s ease-in;
+  -webkit-transition: all 0.1s ease-in;
+  transition: all 0.1s ease-in;
+}
+
+#slideshow-container {
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+}
+
+#link {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+#subtitle {
+  font-size: 18px;
+  color: white;
+  text-align: center;
+}
+
 .cvcontainer {
   margin: 0 30px;
   position: relative;
@@ -125,11 +167,11 @@
 }
 
 .mailcontainer {
-  margin: 0 30px;
+  margin: 0 30px 10px 30px;
   position: relative;
   background: inherit;
   width: 34%;
-  height: 600px;
+  height: 606px;
   background-color: #42927a;
   border-radius: 10px;
   padding: 10px;
@@ -193,9 +235,12 @@ form textarea {
 }
 
 #image3 {
-  margin-top: 80px;
-  height: 450px;
-  width: 31%
+  padding-bottom: 7px;
+  height: 280px;
+  width: 100%;
+  margin: 0 auto;
+  display: block;
+  transition: opacity 0.5s ease-in-out, transform 0.5s ease-in-out;
 }
 
 #image4 {

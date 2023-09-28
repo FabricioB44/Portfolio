@@ -61,11 +61,8 @@
         padding-left: 216px;
     }
 
-    #image3 {
-        margin-top: auto;
-        margin-bottom: auto;
-        height: 360px;
-        width: 31.5%;
+    .websitecontainer {
+        width: 32%;
       }
     
     #cv {
@@ -150,11 +147,8 @@
         padding-left: 238px;
     }
 
-    #image3 {
-        margin-top: auto;
-        margin-bottom: auto;
-        height: 360px;
-        width: 32.5%;
+    .websitecontainer {
+        width: 32.7%;
       }
     
     #cv {
@@ -239,11 +233,8 @@
         padding-left: 255px;
     }
 
-    #image3 {
-        margin-top: auto;
-        margin-bottom: auto;
-        height: 360px;
-        width: 32.5%;
+    .websitecontainer {
+        width: 32.9%;
       }
     
     #cv {
@@ -329,12 +320,15 @@
         padding-left: 270px;
     }
 
-    #image3 {
-        margin-top: auto;
-        margin-bottom: auto;
-        height: 360px;
+    .websitecontainer {
         width: 32%;
+        height: 340px;
+        margin: 120px 30px 0px 30px;
       }
+    
+    #image3 {
+        height: 220px;
+    }
     
     #cv {
         margin-top: -2px;
@@ -347,7 +341,7 @@
     }
 
     .mailcontainer {
-        height: 590px;
+        height: 600px;
       }
 }
 
@@ -419,11 +413,18 @@
         padding-left: 280px;
     }
 
+    .websitecontainer {
+        width: 30.3%;
+        height: 320px;
+        margin: 130px 30px 0px 30px;
+    }
+
     #image3 {
-        margin-top: auto;
-        margin-bottom: auto;
-        height: 360px;
-        width: 30%;
+        height: 200px;
+    }
+
+    #link {
+        font-size: 14px;
       }
     
     #cv {
@@ -442,7 +443,7 @@
     }
 
     .mailcontainer {
-        height: 590px;
+        height: 600px;
       }
 }
 
@@ -586,14 +587,16 @@
         margin-left: -195px;
     }
 
-    #image3 {
-        margin-top: auto;
-        margin-bottom: auto;
+    .websitecontainer {
+        width: 86%;
         margin-left: auto;
         margin-right: auto;
-        height: 360px;
-        width: 86%;
+        margin-top: 0px;
       }
+
+    #image3 {
+        width: 80%;
+    }
 
     #sectioncv {
         padding-top: 30px;
@@ -626,7 +629,7 @@
     .mailcontainer {
         margin-left: auto;
         margin-right: auto;
-        height: 590px;
+        height: 600px;
         width: 86%;
       }
 }
@@ -770,15 +773,13 @@
           margin-top: -35px;
           margin-left: -170px;
       }
-  
-      #image3 {
-          margin-top: auto;
-          margin-bottom: auto;
-          margin-left: auto;
-          margin-right: auto;
-          height: 360px;
-          width: 86%;
-        }
+
+      .websitecontainer {
+        width: 86%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 0px;
+      }
   
       #sectioncv {
           padding-top: 30px;
@@ -812,7 +813,7 @@
       .mailcontainer {
           margin-left: auto;
           margin-right: auto;
-          height: 590px;
+          height: 600px;
           width: 86%;
         }
   }
