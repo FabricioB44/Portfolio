@@ -1,20 +1,8 @@
-let images;
-
-if (window.location.pathname === "/index.html") {
-  images = [
-    "/Images/EmpresaNatural.png",
-    "/Images/ShowCase1.png",
-    "/Images/ShowCase2.png",
+const images = [
+    "https://i.imgur.com/qZ9H8vn.png",
+    "https://i.imgur.com/Vfwa3Ji.png",
+    "https://i.imgur.com/INYYUif.png",
   ];
-} else if (window.location.pathname === "/Pages/HomeEsp.html") {
-  images = [
-    "../Images/EmpresaNatural.png",
-    "../Images/ShowCase1.png",
-    "../Images/ShowCase2.png",
-  ];
-} else {
-  images = [];
-}
   
   let currentIndex = 0;
   const imageElement = document.getElementById("image3");
@@ -35,5 +23,5 @@ if (window.location.pathname === "/index.html") {
       imageElement.style.transform = "translateX(100%)";
     }, 500);
   }
-
+  
   setInterval(nextImage, 6000);
